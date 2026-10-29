@@ -1,0 +1,7 @@
+
+POST http://127.0.0.1:8080/api/ai/chat
+Content-Type: application/json
+
+{
+  "question": "请用一句话解释 Java 中的 for 循环是什么？"
+}
